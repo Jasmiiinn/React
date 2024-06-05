@@ -1,30 +1,18 @@
-# React + TypeScript + Vite
+# Web3 前端训练营报名
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 个人信息
 
-Currently, two official plugins are available:
+* Github ID:Jasmiiinn
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* Openbuild Username:Jasmin
 
-## Expanding the ESLint configuration
+* ERC20 钱包地址: 
+(首次如果没有，学习完毕钱包在填写)
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+### 个人介绍
 
-- Configure the top-level `parserOptions` property like this:
+## 任务提交
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+
+`建议所有的作业结果在个人的 Github 下单独建立仓库放置，在此 readme 里只当相关链接或简介描述即可`
